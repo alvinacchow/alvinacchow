@@ -1,4 +1,4 @@
-## Hi there! Welcome to my github 👋
+## Welcome! It's nice to see you 👋
 
 I am a first-year student at the University of California, Irvine, majoring in Software Engineering and minoring in Innovation and Entrepreneurship! I hope to work as a product manager in the tech industry, right at the intersection of business and tech. I am using this github as a platform to track my personal progress in developing cool software!
 
