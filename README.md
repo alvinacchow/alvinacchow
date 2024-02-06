@@ -6,6 +6,8 @@ I am a second-year student at the University of California, Irvine, majoring in 
 - Python
 - Java
 - C++
+- Swift
+- SwiftUI
 - Javascript
 - HTML
 - CSS
