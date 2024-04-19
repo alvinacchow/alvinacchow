@@ -1,6 +1,6 @@
 ## Welcome! It's nice to see you 👋
 
-I am a second-year student at the University of California, Irvine, majoring in Computer Science and minoring in Management! I hope to work as a product manager in the tech industry, right at the intersection of business and tech. I am using this github as a platform to track my personal progress in developing cool software!
+I am a second-year student at the University of California, Irvine, double majoring in Computer Science and Business Information Management! I hope to work as a product manager in the tech industry, right at the intersection of business and tech. I am using this GitHub as a platform to track my personal progress in developing cool software!
 
 ## Technical Skills: 
 - Python
