@@ -6,12 +6,14 @@ I am a third-year student at the University of California, Irvine, double majori
 - Python
 - Java
 - C++
+- Dart
 - Swift
 - SwiftUI
 - Javascript
 - HTML
 - CSS
 - React Native
+- React
 - MIPS
 - SQL
 - Tomcat
@@ -20,6 +22,7 @@ I am a third-year student at the University of California, Irvine, double majori
 
 ## Contact Me: 
 - [LinkedIn](https://www.linkedin.com/in/alvinachow)
+- [Website](https://alvinachow.framer.website)
 - [chowac@uci.edu](mailto:chowac@uci.edu)
 
 
