@@ -22,8 +22,8 @@ I am a third-year student at the University of California, Irvine, double majori
 
 ## Contact Me: 
 - [LinkedIn](https://www.linkedin.com/in/alvinachow)
-- [Website](https://alvinachow.framer.website)
-- [chowac@uci.edu](mailto:chowac@uci.edu)
+- [Website](https://alvinacchow.vercel.app/)
+- [alvinacchow@gmail.com](mailto:alvinacchow@gmail.com)
 
 
 ### Personal details: 
